@@ -36,39 +36,39 @@ Each day of Devtober comes with a theme. For each one, I add a mechanic, an obst
 
 ## ✅ Side quest progress (Devtober)
 
-| Day | Theme | Idea / Implementation | Done |
-|:---:|-------|-----------------------|:----:|
-| 1 | Apple | The playable character | - [ ] |
-| 2 | Relic | A relic that grants buffs | - [ ] |
-| 3 | Miniature | Everything becomes small for a short time | - [ ] |
-| 4 | Cactus | An obstacle that turns invisible | - [ ] |
-| 5 | Slap | A hand slaps the player and sends them to the side they were hit from | - [ ] |
-| 6 | Ogre | An ogre appears and runs at the player | - [ ] |
-| 7 | Panic | | - [ ] |
-| 8 | Stinky | | - [ ] |
-| 9 | Ram | | - [ ] |
-| 10 | Mystic | | - [ ] |
-| 11 | Rescue | | - [ ] |
-| 12 | Throw | | - [ ] |
-| 13 | Fragile | | - [ ] |
-| 14 | Lady | | - [ ] |
-| 15 | Hooray | Final victory screen | - [ ] |
-| 16 | Gangly | | - [ ] |
-| 17 | Gizmo | | - [ ] |
-| 18 | Wingless | | - [ ] |
-| 19 | Confused | | - [ ] |
-| 20 | Parlor | | - [ ] |
-| 21 | Hero | | - [ ] |
-| 22 | Beacon | Checkpoint system (?) | - [ ] |
-| 23 | Chic | Unlock outfits the player can equip | - [ ] |
-| 24 | Cook | | - [ ] |
-| 25 | Fracture | | - [ ] |
-| 26 | Zip | | - [ ] |
-| 27 | Stupid | Troll platform, fake sign, platform that runs away | - [ ] |
-| 28 | Trophy | Based on time? Per win? | - [ ] |
-| 29 | Defense | | - [ ] |
-| 30 | Cookie | Boost? Collectible? | - [ ] |
-| 31 | Flex | | - [ ] |
+<details> <summary>📋 List version (clickable checkboxes)</summary>
+ Day 1 – Apple: the playable character
+ Day 2 – Relic: a relic that grants buffs
+ Day 3 – Miniature: everything becomes small for a short time
+ Day 4 – Cactus: an obstacle that turns invisible
+ Day 5 – Slap: a hand slaps the player and sends them to the side they were hit from
+ Day 6 – Ogre: an ogre appears and runs at the player
+ Day 7 – Panic
+ Day 8 – Stinky
+ Day 9 – Ram
+ Day 10 – Mystic
+ Day 11 – Rescue
+ Day 12 – Throw
+ Day 13 – Fragile
+ Day 14 – Lady
+ Day 15 – Hooray: final victory screen
+ Day 16 – Gangly
+ Day 17 – Gizmo
+ Day 18 – Wingless
+ Day 19 – Confused
+ Day 20 – Parlor
+ Day 21 – Hero
+ Day 22 – Beacon: checkpoint system (?)
+ Day 23 – Chic: unlock outfits the player can equip
+ Day 24 – Cook
+ Day 25 – Fracture
+ Day 26 – Zip
+ Day 27 – Stupid: troll platform, fake sign, platform that runs away
+ Day 28 – Trophy: based on time? per win?
+ Day 29 – Defense
+ Day 30 – Cookie: boost? collectible?
+ Day 31 – Flex
+</details>
 
 ---
 
