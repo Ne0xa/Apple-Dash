@@ -31,7 +31,7 @@ public class PlayerMovement : MonoBehaviour
 
     void Update()
     {
-        if (ugoku.action.WasPressedThisFrame() && isGrounded)
+        if (ugoku.action.IsPressed() && isGrounded)
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
         }
