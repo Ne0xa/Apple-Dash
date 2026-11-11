@@ -36,7 +36,7 @@ Each day of Devtober comes with a theme. For each one, I add a mechanic, an obst
 
 ## ✅ Side quest progress (Devtober)
 
-- [ ] **Day 1 – Apple**: the playable character
+- [x] **Day 1 – Apple**: the playable character
 - [ ] **Day 2 – Relic**: a relic that grants buffs
 - [ ] **Day 3 – Miniature**: everything becomes small for a short time
 - [ ] **Day 4 – Cactus**: an obstacle that turns invisible
